@@ -1,0 +1,10 @@
+div {color: rgb(55, 255, 0);
+display: flex;
+justify-content: center;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: oblique;
+}
+body{color:rgb(3, 59, 38);}
+img { display:flex; justify-content: space-evenly; height=500px width=400px} 
+
+.one{font-family:'Lucida Sans', 'Lucida Sans Regular'; ;}
