@@ -9,15 +9,9 @@ font-size: xx-large;
 background-color: black;
 border-style: groove; border-bottom: 2px; border-top: 2px; border-right: 2px; border-left: 2px; border-color: aquamarine;
 }
-body{color:rgb(3, 59, 38);}
 
-img { display:flex; justify-content: space-evenly; height=500px width=400px} 
+#two{font-family: 'Lucida Sans', 'Lucida Sans Regular'; text-align: left;}
 
-#one{font-family:'Lucida Sans', 'Lucida Sans Regular';}
-#two{font-family: 'Lucida Sans', 'Lucida Sans Regular'; text-align: right;}
-#three{font-family: 'Lucida Sans', 'Lucida Sans Regular';
-     display:flex; 
-     justify-content: center;}
 footer{font-family: 'Times New Roman', Times, serif; 
     font-size: small; 
     display:flex; 
